@@ -1,0 +1,1 @@
+Se analiza una serie de imagenes integrado en la libreria Keras, esta base consiste de 70000 imagenes en escala de grises (en este caso requiere de una conversion a RGB ) de prendas de vestir con 10 clases, para fines demostrativos, el codigo toma un subcojunto de 1000 muestras
